@@ -5,3 +5,7 @@ jalase2(DT2) : https://drive.google.com/file/d/1E2RZDdHLOqZexmUqKmjkMnjEA0UI0qT1
 jalase3(ann1):  https://drive.google.com/file/d/1PyoBUsc8WHpQt9lIDRZJ-1HBBteNSgzb/view?usp=sharing
 
 jalase4(ann2) = https://drive.google.com/file/d/1yw06F-7Ofqmpq7gNA89rIjnm2s4cmJ93/view?usp=sharing
+
+jalase5(DT3) = https://drive.google.com/file/d/1NuheIdObsRnOmb8OkHDQFc0EMrBkYaSk/view?usp=sharing
+
+jalase6(ann3) = https://drive.google.com/file/d/1JpMCoZocdRIUKC4sFof8V9bAUpacmAsE/view?usp=sharing
