@@ -9,3 +9,19 @@ jalase4(ann2) = https://drive.google.com/file/d/1yw06F-7Ofqmpq7gNA89rIjnm2s4cmJ9
 jalase5(DT3) = https://drive.google.com/file/d/1NuheIdObsRnOmb8OkHDQFc0EMrBkYaSk/view?usp=sharing
 
 jalase6(ann3) = https://drive.google.com/file/d/1JpMCoZocdRIUKC4sFof8V9bAUpacmAsE/view?usp=sharing
+
+شبکه عصبی عملی(۱): https://t.me/ai4032_iust/241
+شبکه عصبی عملی(۲): https://t.me/ai4032_iust/181
+شبکه عصبی عملی(۳): https://t.me/ai4032_iust/241
+شبکه عصبی عملی(۴): https://t.me/ai4032_iust/183
+------------------------------------------
+جزوه جستجوی رقابتی: https://t.me/ai4032_iust/241
+جستجوی رقابتی: https://drive.google.com/file/d/1-uu4lFlaWEwuSrXKGe33_PjqU0XV2qNW/view
+------------------------------------------
+جزوه RL: https://t.me/ai4032_iust/241
+قسمت اول RL در گوگل درایو: https://drive.google.com/file/d/1-uu4lFlaWEwuSrXKGe33_PjqU0XV2qNW/view
+قسمت دوم RL در گوگل درایو: https://drive.google.com/file/d/1Z-Yi8HCldrG74yGhj8OVCVKs0MnDRODI/view
+قسمت سوم RL در گوگل درایو: https://drive.google.com/file/d/18RTliyf-4LBcnzKWStEFYP5K2jbMu-wz/view
+------------------------------------------
+جزوه svm: https://t.me/ai4032_iust/241
+لینک گوگل درایو جلسه SVM = https://drive.google.com/file/d/1hD9IG3X0ZF6LP2fHVujViswBIFDyrF11/view
